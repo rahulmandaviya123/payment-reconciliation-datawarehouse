@@ -28,9 +28,7 @@
 ### **🚀 Next Steps**
 
  
-3. ✅ Copy all files (10 min)
-4. ✅ Make first commit (5 min)
-5. ✅ Start Day 2 work (Bronze layer)
+ 
 
 ---
 
