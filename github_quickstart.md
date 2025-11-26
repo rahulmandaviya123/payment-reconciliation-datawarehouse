@@ -27,8 +27,7 @@
 
 ### **🚀 Next Steps**
 
-1. ✅ Create GitHub repository (2 min)
-2. ✅ Clone locally (1 min)
+ 
 3. ✅ Copy all files (10 min)
 4. ✅ Make first commit (5 min)
 5. ✅ Start Day 2 work (Bronze layer)
