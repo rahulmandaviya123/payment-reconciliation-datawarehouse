@@ -1,0 +1,9 @@
+{
+	"name": "RawIngestionADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b72cde4-d096-4f49-bdfb-0289014c7dc7",
+		"tenantId": "ec1bd924-0a6a-4aa9-aa89-c980316c0449"
+	}
+}
