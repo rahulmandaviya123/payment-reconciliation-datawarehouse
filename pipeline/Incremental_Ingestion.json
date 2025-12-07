@@ -192,7 +192,7 @@
 							{
 								"name": "cdc_timestamp",
 								"value": {
-									"value": "@activity('max').output.resultSet[0].rows[0].cdc_timestamp",
+									"value": "@activity('max').output.resultSets[0].rows[0].cdc_timestamp",
 									"type": "Expression"
 								}
 							}
