@@ -354,12 +354,6 @@
 				"defaultValue": [
 					{
 						"schema": "dbo",
-						"table": "dim_date",
-						"cdc_col": "load_date",
-						"from_date": ""
-					},
-					{
-						"schema": "dbo",
 						"table": "dim_merchants",
 						"cdc_col": "created_date",
 						"from_date": ""
